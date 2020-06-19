@@ -1,5 +1,5 @@
 # CheckRetailerPagesForUpdates
-Because you need to buy toliet paper ... or a Intel 10900K.
+Because you need to buy toliet paper ... or a Intel Core i9-10900K.
 
 ### Description
 You can configure a list of URLs to observe for changes.  The changes are observed via a list of specified XPaths, which you can also configure. 
